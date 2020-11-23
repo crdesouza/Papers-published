@@ -1,5 +1,5 @@
 # Papers-published
-Here I present files for the papers i've published in my scientific carrer since 2018. For the papers I don't have legal permission to do it I share some previous version. More information can be found at my lattes profile (http://lattes.cnpq.br/1056892310025226) and at my ResearchGate (https://www.researchgate.net/profile/Cleber_Souza5).
+Here I present files for the papers i've published in my scientific career since 2018. For the papers I don't have legal permission to do it I share some previous version. More information can be found at my lattes profile (http://lattes.cnpq.br/1056892310025226) and at my ResearchGate (https://www.researchgate.net/profile/Cleber_Souza5).
 
 
 --> **2020**
