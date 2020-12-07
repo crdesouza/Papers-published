@@ -1,6 +1,10 @@
 # Papers-published
 Here I present files for the papers i've published in my scientific career since 2018. For the papers I don't have legal permission to share, you can use the sciHub (https://sci-hub.do/) to get it (for your responsability). More information can be found at my lattes profile (http://lattes.cnpq.br/1056892310025226) and at my ResearchGate (https://www.researchgate.net/profile/Cleber_Souza5).
 
+--> **2021**
+
+**Pinto et al.** - Optimal plot size for carbon-diversity sampling in tropical vegetation. Forest Ecology and Management. https://doi.org/10.1016/j.foreco.2020.118778  **PDF not available**
+
 
 --> **2020**
 
