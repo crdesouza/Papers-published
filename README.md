@@ -10,6 +10,8 @@ Here I present files for the papers i've published in my scientific career since
 
 **Souza et al.** - Local-scale tree community ecotones are distinct vegetation types instead of mixed ones: a case study from the Cerrado-Atlantic forest ecotonal region in Brazil. Australian Journal of Botany. https://doi.org/10.1071/BT19108  **PDF not available**
 
+**Fagundes et al.** - Floristic and structural relationships in seasonally dry tropical forests on limestone outcrops. Scientia Forestalis. https://doi.org/10.18671/scifor.v48n127.17
+
 **Aguiar-Campos et al.** - Can fine-scale habitats of limestone outcrops be considered litho-refugia for dry forest tree lineages? Biodiversity and Conservation. https://doi.org/10.1007/s10531-019-01923-4  **PDF not available**
 
 **Carvalho et al.** - A percepção autóctone sobre os ambientes naturais com potencial ecoturístico em Luminárias (MG): dinâmica e consequências. Revista Brasileira de Ecoturismo. https://doi.org/10.34024/rbecotur.2020.v13.9472
