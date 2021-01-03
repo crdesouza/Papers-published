@@ -10,6 +10,8 @@ Here I present files for the papers i've published in my scientific career since
 
 **Souza et al.** - Local-scale tree community ecotones are distinct vegetation types instead of mixed ones: a case study from the Cerrado-Atlantic forest ecotonal region in Brazil. Australian Journal of Botany. https://doi.org/10.1071/BT19108  **PDF not available**
 
+**Maia et al.** - The carbon sink of tropical seasonal forests in southeastern Brazil can be under threat. Science Advances. https://doi.org/10.1126/sciadv.abd4548
+
 **Fagundes et al.** - Floristic and structural relationships in seasonally dry tropical forests on limestone outcrops. Scientia Forestalis. https://doi.org/10.18671/scifor.v48n127.17
 
 **Aguiar-Campos et al.** - Can fine-scale habitats of limestone outcrops be considered litho-refugia for dry forest tree lineages? Biodiversity and Conservation. https://doi.org/10.1007/s10531-019-01923-4  **PDF not available**
@@ -33,6 +35,8 @@ Here I present files for the papers i've published in my scientific career since
 **Santos et al.** - Effects of environmental heterogeneity and temporal variation on ecological relationships of vegetation in a Seasonally Dry Tropical Forest in Brazil. Turkish Journal of Botany. https://doi.org/10.3906/bot-1904-12
 
 **Silveira-jr et al.** - Payment for enviromental services: alleviating the conflict of parks versus people. Journal of Tropical Forest Science. https://doi.org/10.26525/jtfs32.1.8
+
+**Silveira-jr et al.** - Conflicts between uses and protection of vegetable species in protected areas of Serra e São José, Minas Gerais. Geo UERJ. https://doi.org/10.12957/geouerj.2020.37383
 
 
 --> **2019**
