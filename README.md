@@ -3,6 +3,14 @@ Here I present files for the papers i've published in my scientific career since
 
 --> **2021**
 
+**Souza et al.** Long-term ecological trends of small secondary forests of the atlantic forest hotspot: A 30-year study case. Forest Ecology and Management. https://doi.org/10.1016/j.foreco.2021.119043 **PDF not available**
+
+**Souza et al.** Seasonally dry tropical forest temporal patterns are marked by floristic stability and structural changes. Cerne. http://dx.doi.org/10.1590/01047760202127012355 
+
+**Maia et al.** Climate and soil mediate the effects of liana density on forest dynamics. Biotropica. https://doi.org/10.1111/btp.12894 **PDF not available**
+
+**Aguiar-Campos et al.** Evolutionary constraints on tree size and aboveground biomass in tropical dry forests. Journal of Ecology. https://doi.org/10.1111/1365-2745.13589 **PDF not available**
+
 **Pinto et al.** - Optimal plot size for carbon-diversity sampling in tropical vegetation. Forest Ecology and Management. https://doi.org/10.1016/j.foreco.2020.118778  **PDF not available**
 
 
